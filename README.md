@@ -1,2 +1,2 @@
 # solid-principles-dotnet
-Author-Shraddha Jade
+Author : Shraddha Jade
