@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CustomerDetails/CustomerDetails.csproj" />
+  <Project Path="SingleResponsibilityPrinciple.csproj" />
+</Solution>
